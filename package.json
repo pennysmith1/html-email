@@ -1,0 +1,35 @@
+{
+  "name": "html-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@whitneyit/middle": "^1.0.3",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-change": "^1.0.0",
+    "gulp-ejs": "^1.1.0",
+    "gulp-gzip": "^1.2.0",
+    "gulp-inline-css": "^2.0.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-s3": "github:whitneyit/gulp-s3",
+    "gulp-serve": "^1.0.0",
+    "path-exists": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pennysmith1/html-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pennysmith1/html-email.git"
+  },
+  "homepage": "https://github.com/pennysmith1/html-email.git"
+}
